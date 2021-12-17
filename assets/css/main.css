@@ -1306,7 +1306,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		background-image: url("images/bg.jpg");
 		-webkit-background-size: 100%; 
 		-moz-background-size: 100%; 
 		-o-background-size: 100%; 
