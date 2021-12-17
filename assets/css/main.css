@@ -1307,8 +1307,15 @@ input, select, textarea {
 
 	body {
 		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		-webkit-background-size: 100%; 
+		-moz-background-size: 100%; 
+		-o-background-size: 100%; 
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
+		-webkit-background-size: cover; 
+		-moz-background-size: cover; 
+		-o-background-size: cover; 
+		background-size: cover;
 		background-attachment: fixed;
 		overflow-y: scroll;
 	}
