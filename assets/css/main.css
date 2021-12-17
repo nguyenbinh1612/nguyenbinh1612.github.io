@@ -1317,6 +1317,7 @@ input, select, textarea {
 		-o-background-size: cover; 
 		background-size: cover;
 		background-attachment: scroll;
+		background-position: center;
 		overflow-y: scroll;
 	}
 
